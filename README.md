@@ -7,8 +7,9 @@ Adresse : `https://atechlabs.github.io/alfred-modeles/vosk-model-small-fr-0.22.t
 | Fichier | Origine | Licence | Usage |
 |---|---|---|---|
 | `vosk-model-small-fr-0.22.tar.gz` (42 Mo) | [Vosk / Alpha Cephei](https://alphacephei.com/vosk/models), reconditionné en `.tar.gz` pour `vosk-browser` | Apache-2.0 | reconnaissance du mot d'appel (« Hey Alfred ») dans la page, hors ligne |
+| `vosk-browser-0.0.8-alfred1.js` (5,8 Mo) | [vosk-browser](https://github.com/ccoreilly/vosk-browser) 0.0.8, révision alfred1 (voir plus bas) | Apache-2.0 | le moteur de reconnaissance dans la page, chargé à la place de la copie du CDN |
 
-Rien d'autre ne vit ici : ni code, ni donnée personnelle.
+Rien d'autre ne vit ici : ni code d'Alfred, ni donnée personnelle.
 
 ## vosk-browser 0.0.8, révision alfred1
 
